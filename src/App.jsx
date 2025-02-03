@@ -14,6 +14,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <button>submit</button>
+      <p>hi this is my first project</p>
     </>
   );
 }
