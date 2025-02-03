@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>Hi Harry nb hb hbhu bhg b</div>
+      <input type="text" placeholder="hi harinder daksh" />
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
